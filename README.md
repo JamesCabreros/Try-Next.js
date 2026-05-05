@@ -22,22 +22,22 @@ Online Food delivery - Next.js / MySQL/
  
 *System Architecture* 
 
-Frontend (Next.js UI)
-- Pages
-* Login
-* Dashboard(Admin only)
-* Menu
-* Status
+#Frontend (Next.js UI)
+  - Pages
+    * Login
+    * Dashboard(Admin only)
+    * Menu
+    * Status
 
-Backend (Next.js API)
-- Handles
-* Authentication
-* Order Processing
-* CRUD
-* Status updates
+#Backend (Next.js API)
+  - Handles
+    * Authentication
+    * Order Processing
+    * CRUD
+    * Status updates
 
 Database (stores)
-* Users
-* Products
-* Orders
-* Order items
+  * Users
+  * Products
+  * Orders
+  * Order items
